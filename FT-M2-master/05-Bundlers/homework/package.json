@@ -1,0 +1,19 @@
+{
+  "name": "05-bundlers",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack"
+  },
+  "dependen ies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1",
+    "webpack": "^5.72.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
